@@ -1,0 +1,2 @@
+java-car-parking-system
+This system allows cars to be parked in a parking lot. The capacity of parking lot is fixed and cars are not allowed to enter if there is no space. The cars can leave the parking space, and they will be charged for the hours the car stayed in the parking. The system willhandle multiple cars to enter the system.
